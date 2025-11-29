@@ -17,7 +17,7 @@ const Notes = ({
   dateCreated: string;
 }) => {
   return (
-    <div className="flex flex-col gap-2 max-w-[360px] bg-amber-200 p-5 rounded-md">
+    <div className="flex flex-col gap-2 max-w-[360px] bg-amber-400 p-5 rounded-md">
       <div className="flex justify-end gap-2">
         <button className="p-2 bg-sky-500 text-neutral-50 rounded-md">
           Edit

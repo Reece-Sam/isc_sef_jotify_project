@@ -1,6 +1,7 @@
 import React from "react";
 import "./DisplayNotes";
 import Notes from "./Notes";
+// import axios from axios;
 
 type SingleNote = {
   id: number;
